@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: probandogit02
+  host: probandogit02
+  disk_quota: 1024M
